@@ -1,3 +1,6 @@
 [submodule "suitepy"]
 	path = suitepy
 	url = https://github.com/sanchezfauste/SuitePY.git
+[submodule "suitepy1"]
+	path = suitepy1
+	url = https://github.com/sanchezfauste/SuitePY.git
